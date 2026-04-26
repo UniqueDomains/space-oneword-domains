@@ -1,22 +1,22 @@
-# Available .SPACE One-Word Domains (75,560)
+# Available .SPACE One-Word Domains (75,872)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C560%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C872%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .space one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **75,560 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **75,872 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 75,560 domains
+**Public extract:** 1,000 rows · **Live catalog:** 75,872 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/space`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SPACE one-word domain
 
 ### Files
 
-- `space.csv` — public CSV extract (10,000 rows)
-- `space.json` — public JSON extract (10,000 rows)
+- `space.csv` — public CSV extract (1,000 rows)
+- `space.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| peerreview.space    | available | $25.98    | —             | 86             | 84     | 11     | namecheap                                           |
-| gadget.space        | resell    | —         | —             | 74             | 96     | 6      | Name.com, Inc                                       |
-| simulation.space    | premium   | $812.50   | $3,250        | 60             | 92     | 10     | namecheap                                           |
-| Abdulmalik.space    | available | $25.98    | —             | 46             | 84     | 10     | namecheap                                           |
-| choco.space         | resell    | —         | —             | 72             | 96     | 5      | Go Daddy, LLC                                       |
-| greenhouse.space    | premium   | $812.50   | $3,250        | 56             | 92     | 10     | namecheap                                           |
-| intensivecare.space | available | $25.98    | —             | 58             | 80     | 14     | namecheap                                           |
-| flex.space          | resell    | —         | —             | 90             | 92     | 4      | Go Daddy, LLC                                       |
-| tapestry.space      | premium   | $325      | $1,300        | 86             | 88     | 8      | namecheap                                           |
-| armedforces.space   | available | $25.98    | —             | 50             | 80     | 12     | namecheap                                           |
-| epoch.space         | resell    | —         | —             | 67             | 92     | 5      | Go Daddy, LLC                                       |
-| training.space      | premium   | $3,250    | $13,000       | 70             | 88     | 8      | namecheap                                           |
-| zyzzyva.space       | available | $4.99     | $35.99        | 58             | 76     | 7      | name.com                                            |
-| coinbase.space      | resell    | —         | —             | 62             | 92     | 8      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| entertainment.space | premium   | $1,625    | $6,500        | 56             | 88     | 13     | namecheap                                           |
-| voiceoverIP.space   | available | $25.98    | —             | —              | 76     | 13     | namecheap                                           |
-| wraith.space        | resell    | —         | —             | 60             | 92     | 6      | Go Daddy, LLC                                       |
-| drugs.space         | premium   | $3,250    | $13,000       | 44             | 88     | 5      | namecheap                                           |
-| accountday.space    | available | $4.99     | $35.99        | 56             | 72     | 11     | name.com                                            |
-| NewEra.space        | resell    | —         | —             | —              | 92     | 7      | Sav.com, LLC- 6                                     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| ABCexporter.space | available | $25.98    | —             | 43             | 72     | 12     | namecheap                      |
+| wraith.space      | resell    | —         | —             | 60             | 92     | 6      | Go Daddy, LLC                  |
+| simulation.space  | premium   | $812.50   | $3,250        | 60             | 92     | 10     | namecheap                      |
+| runs.space        | available | $4.99     | —             | 68             | 12     | 4      | name.com                       |
+| affinity.space    | resell    | —         | —             | 78             | 81     | 8      | Xin Net Technology Corporation |
+| tapestry.space    | premium   | $325      | $1,300        | 86             | 88     | 8      | namecheap                      |
+| yall.space        | available | $4.99     | —             | 60             | 12     | 4      | name.com                       |
+| parametric.space  | resell    | —         | —             | 68             | 80     | 10     | OVH                            |
+| equipment.space   | premium   | $812.50   | $3,250        | 68             | 84     | 9      | namecheap                      |
+| bigmoney.space    | available | $4.99     | —             | 78             | 11     | 9      | name.com                       |
+| rocketry.space    | resell    | —         | —             | 56             | 80     | 8      | Porkbun, LLC                   |
+| dairy.space       | premium   | $325      | $1,300        | 74             | 76     | 5      | namecheap                      |
+| goforit.space     | available | $3.99     | $34.99        | 76             | 11     | 9      | namesilo                       |
+| Crayola.space     | resell    | —         | —             | 80             | 61     | 7      | West263 International Limited  |
+| realestate.space  | premium   | $1,625    | $6,500        | —              | 42     | 11     | namecheap                      |
+| memorize.space    | available | $4.99     | —             | 86             | 10     | 8      | name.com                       |
+| access.space      | resell    | —         | —             | 98             | 46     | 6      | DNSPod, Inc.                   |
+| fine.space        | premium   | $325      | $1,300        | 80             | 29     | 4      | namecheap                      |
+| inpower.space     | available | $4.99     | —             | 47             | 10     | 8      | name.com                       |
+| prompts.space     | resell    | —         | —             | 54             | 39     | 7      | Sav.com, LLC - 43              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 75,560 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 75,872 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
