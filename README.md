@@ -83,7 +83,7 @@ print(df.head())
 | growthspurt.space | premium   | —         | —             | 80             | 80     | 12     | —                             |
 | Sundayroast.space | premium   | —         | —             | 80             | 4      | 12     | —                             |
 | nappe.space       | premium   | —         | —             | 82             | 72     | 5      | —                             |
-| suggest.space     | premium   | —         | —             | 86             | 12     | 7      | —                             |
+| suggest.space     | premium   | —         | —             | 86             | 11     | 7      | —                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
