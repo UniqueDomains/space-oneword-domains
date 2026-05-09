@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .space one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 75,933 domains · **Median ask:** $500.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/space`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | makenews.space    | available | $4.99     | —             | 80             | 1      | 9      | name.com                      |
 | creating.space    | premium   | $875      | $3,500        | 80             | 12     | 8      | namecheap                     |
 | Crayola.space     | resell    | —         | —             | 80             | 61     | 7      | West263 International Limited |
-| bewell.space      | resell    | —         | —             | 84             | 20     | 7      | Spaceship, Inc.               |
+| bewell.space      | resell    | —         | —             | 84             | 19     | 7      | Spaceship, Inc.               |
 | makesense.space   | resell    | —         | —             | 82             | 14     | 10     | Porkbun LLC                   |
 | gleaming.space    | premium   | —         | —             | 82             | 4      | 8      | —                             |
 | bequest.space     | premium   | —         | —             | 90             | 80     | 7      | —                             |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
