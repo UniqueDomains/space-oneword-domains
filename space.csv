@@ -120,7 +120,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57004519-4e7d-4f11-89a4-4e956c013555,dustbunnies.space,available,3.99,34.99,38,5,12,namesilo,,
 57820d6f-99c9-4e6b-9fc5-e86018867484,movingforward.space,available,4.99,,56,8,14,name.com,,
 579bf4b6-dcac-4511-9021-d46c7057cc74,elects.space,available,3.99,34.99,56,4,6,namesilo,,
-592428b6-6d75-43fe-bdd6-024b6a0aea66,accountability.space,resell,,,70,19,14,Porkbun LLC,27/01/2026 20:46,27/01/2027 23:59
+592428b6-6d75-43fe-bdd6-024b6a0aea66,accountability.space,resell,,,70,18,14,Porkbun LLC,27/01/2026 20:46,27/01/2027 23:59
 59409543-cd4d-4241-8085-759a3483174c,foes.space,premium,175,700,46,6,4,namecheap,,
 594692db-182b-4de1-bf32-4063ceb9cd3a,enlightenment.space,resell,,,62,18,13,West263 International Limited,12/12/2025 17:17,12/12/2026 23:59
 59b312ec-abdd-482a-a838-e2291197bf5b,havenobusiness.space,available,4.99,,60,1,16,name.com,,
@@ -160,7 +160,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 710dfeff-9be1-47af-a648-529eddf77e1e,consents.space,available,4.99,,60,4,8,name.com,,
 7220b746-e066-4a11-b86b-f93cc61d55b4,speedofsound.space,resell,,,68,5,14,"GoDaddy.com, LLC",13/12/2020 20:05,13/12/2026 23:59
 725dbc21-d17d-4811-9e2e-caac29413bba,sweatshop.space,premium,35,140,56,8,10,namecheap,,
-72907104-8fbd-4264-a911-d7dbb84d8cf2,writedown.space,available,4.99,,76,4,10,name.com,,
+72907104-8fbd-4264-a911-d7dbb84d8cf2,writedown.space,available,4.99,,76,3,10,name.com,,
 74c82d81-42ce-4708-8093-1bf8fa860db2,tothe.space,available,3.99,34.99,54,7,6,namesilo,,
 74f795c0-ce58-45ff-a47a-f8b7c9bc5b95,getsick.space,available,4.99,,72,1,8,name.com,,
 75f750c0-9c7d-47ae-a1c3-d4d5bc9e95bf,gobust.space,available,4.99,,68,1,7,name.com,,
@@ -464,7 +464,7 @@ a8c6d942-bbfb-477d-9684-151c1e60a315,FifthWorld.space,premium,,,46,76,11,,,
 0444fc70-3fd7-4746-bbc6-7981762e7ae3,maximumsecurity.space,premium,,,54,76,16,,,
 e5d92ad9-1368-420d-a738-da3fb3fa693d,closes.space,premium,,,50,16,6,,,
 08d101dc-98d8-435d-83d3-647b2155a043,workforce.space,premium,,,66,80,10,,,
-bedbfb7d-140a-4b34-9239-815dad0ffda5,sitabout.space,premium,,,,1,9,,,
+bedbfb7d-140a-4b34-9239-815dad0ffda5,sitabout.space,premium,,,,0,9,,,
 ad2ebce4-8b5f-4d67-8893-130fa6b93e56,poachedegg.space,premium,,,62,72,11,,,
 e7d6362a-021c-481e-b40f-7a588d278aaa,ways.space,premium,,,78,15,4,,,
 a1ff1dd1-d0cf-4257-a386-667c36f08b81,janefonda.space,premium,,,70,72,10,,,
@@ -724,7 +724,7 @@ da0e74be-6369-4edc-8cbe-ea064a8c7f70,takeawalk.space,premium,,,,80,11,,,
 834c0e1b-eaf8-47aa-99b7-0cce94b763d9,winorlose.space,premium,,,,72,11,,,
 3f3ff2a8-09e8-4a4c-b5fc-96daa1a18ee2,plethora.space,premium,,,54,80,8,,,
 a7ce9a57-84f5-49d3-82c8-07d61f6f408b,pickupcover.space,premium,,,56,72,12,,,
-41c709e0-85be-4eee-8985-94a8918e2513,hightide.space,resell,,,69,13,9,"NameCheap, Inc.",12/11/2025 19:18,12/11/2026 23:59
+41c709e0-85be-4eee-8985-94a8918e2513,hightide.space,resell,,,69,14,9,"NameCheap, Inc.",12/11/2025 19:18,12/11/2026 23:59
 e5009979-8cd2-4f9f-893f-7b64cea93d91,bodice.space,premium,,,60,72,6,,,
 de4dc566-66f1-4081-8c71-255c5f251a97,halfyearly.space,premium,,,56,72,11,,,
 a0c37d3b-c198-4cb8-ad6c-d877a4fe3143,WestTown.space,premium,,,,80,9,,,
