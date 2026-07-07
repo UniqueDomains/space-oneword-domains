@@ -1,10 +1,10 @@
-# Available .SPACE One-Word Domains (75,937)
+# Available .SPACE One-Word Domains (75,942)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C937%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C942%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .space one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **75,937 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **75,942 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 75,937 domains · **Median ask:** $500.22 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 75,942 domains · **Median ask:** $361.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/space`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/space`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SPACE one-word domain
 
 ### Files
 
-- `space.csv` — public CSV extract (1,000 rows)
-- `space.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `space.csv`, public CSV extract (1,000 rows)
+- `space.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| Googler.space     | available | $32.48    | —             | 80             | 7      | 7      | namecheap                     |
-| goodday.space     | premium   | —         | —             | 80             | 17     | 8      | —                             |
-| headout.space     | available | $4.99     | —             | 82             | 6      | 8      | name.com                      |
-| chaitea.space     | available | $4.99     | —             | 86             | 3      | 8      | name.com                      |
-| memorize.space    | available | $4.99     | —             | 86             | 10     | 8      | name.com                      |
-| makenews.space    | available | $4.99     | —             | 80             | 1      | 9      | name.com                      |
-| creating.space    | premium   | $875      | $3,500        | 80             | 12     | 8      | namecheap                     |
-| Crayola.space     | resell    | —         | —             | 80             | 61     | 7      | West263 International Limited |
-| bewell.space      | resell    | —         | —             | 84             | 19     | 7      | Spaceship, Inc.               |
-| makesense.space   | resell    | —         | —             | 82             | 13     | 10     | Porkbun LLC                   |
-| gleaming.space    | premium   | —         | —             | 82             | 4      | 8      | —                             |
-| bequest.space     | premium   | —         | —             | 90             | 80     | 7      | —                             |
-| promo.space       | premium   | —         | —             | 94             | 31     | 5      | —                             |
-| default.space     | premium   | —         | —             | 94             | 25     | 7      | —                             |
-| limited.space     | premium   | —         | —             | 82             | 20     | 7      | —                             |
-| pretext.space     | premium   | —         | —             | 82             | 76     | 7      | —                             |
-| growthspurt.space | premium   | —         | —             | 80             | 80     | 12     | —                             |
-| Sundayroast.space | premium   | —         | —             | 80             | 5      | 12     | —                             |
-| nappe.space       | premium   | —         | —             | 82             | 72     | 5      | —                             |
-| suggest.space     | premium   | —         | —             | 86             | 11     | 7      | —                             |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| content.space    | available | —         | —             | high           | low    | 7      | —                                                         |
+| sums.space       | available | $4.99     | —             | low            | low    | 4      | name.com                                                  |
+| justintime.space | resell    | $4.99     | —             | medium         | low    | 12     | West263 International Limited                             |
+| BRAS.space       | premium   | $175      | $700          | high           | low    | 4      | namecheap                                                 |
+| coldly.space     | available | $3.99     | $34.99        | medium         | low    | 6      | namesilo                                                  |
+| lunar.space      | resell    | —         | —             | high           | low    | 5      | West263 International Limited                             |
+| draw.space       | premium   | $3,500    | $14,000       | high           | low    | 4      | namecheap                                                 |
+| texted.space     | available | $4.99     | —             | medium         | low    | 6      | name.com                                                  |
+| access.space     | resell    | —         | —             | high           | medium | 6      | DNSPod, Inc.                                              |
+| duty.space       | premium   | $350      | $1,400        | medium         | low    | 4      | namecheap                                                 |
+| inthat.space     | available | $3.99     | $34.99        | medium         | low    | 7      | namesilo                                                  |
+| wraith.space     | resell    | —         | —             | medium         | high   | 6      | Go Daddy, LLC                                             |
+| fine.space       | premium   | $325      | $1,300        | high           | low    | 4      | namecheap                                                 |
+| zyzzyva.space    | available | $4.99     | $35.99        | medium         | high   | 7      | name.com                                                  |
+| meaning.space    | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| hand.space       | premium   | $1,750    | $7,000        | high           | low    | 4      | namecheap                                                 |
+| alcohols.space   | available | $4.99     | —             | medium         | low    | 8      | name.com                                                  |
+| rocketry.space   | resell    | —         | —             | medium         | high   | 8      | Porkbun, LLC                                              |
+| once.space       | premium   | $350      | $1,400        | high           | low    | 4      | namecheap                                                 |
+| antiacid.space   | available | $4.99     | —             | high           | low    | 8      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 75,937 live domains                        |
+| 1,000-row public sample | 75,942 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .space domains. The names range from dictionary-style words to broader brandable constructions, including examples like goodday.space, headout.space, memorize.space, and creating.space. For founders, the main question is whether the word is memorable, easy to say, and credible enough for a brand outside the .com default. For investors, the key is pricing discipline: compare the ask against the quality of the word, its commercial flexibility, and whether the .space extension helps or limits resale interest. The median ask across this set is 500.22, so name quality matters more than assuming every low-priced listing is a deal.
+This set of .space domain names leans toward everyday words and short compound phrases rather than acronyms or invented strings. Names such as creating.space, chaitea.space, and Googler.space show the range: single dictionary words, two-word blends, and brand-style coinages. With a median ask near $362 across 75,942 names, pricing sits low enough for founders to shortlist multiple options, while the size of the set gives investors room to compare word quality against ask price before committing to any single name.
 
-- All names in this selection use the .space extension
-- Median ask across the set is 500.22
-- Includes single words and phrase-style brandables
-- Check wording for trademark exposure before buying
+- 75,942 one-word .space domain names in this selection
+- Median ask near $362 across the set
+- Everyday brandable terms: criteria, goodday, memorize, chaitea
+- Compare pricing and renewal before shortlisting a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
