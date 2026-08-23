@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .space one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 79,413 domains · **Median ask:** $225.73 · **High-demand under $2,500:** 340
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/space`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | coldly.space     | available | $3.99     | $34.99        | medium         | low    | 6      | namesilo                                                  |
 | wraith.space     | resell    | —         | —             | medium         | high   | 6      | Go Daddy, LLC                                             |
 | duty.space       | premium   | $350      | $1,400        | medium         | low    | 4      | namecheap                                                 |
-| mugup.space      | available | $0.98     | $32.48        | medium         | low    | 6      | namecheap                                                 |
+| judaic.space     | available | $0.98     | $32.48        | low            | low    | 6      | namecheap                                                 |
 | meaning.space    | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 | fine.space       | premium   | $325      | $1,300        | high           | low    | 4      | namecheap                                                 |
-| septet.space     | available | $0.98     | $32.48        | low            | low    | 6      | namecheap                                                 |
+| mugup.space      | available | $0.98     | $32.48        | medium         | low    | 6      | namecheap                                                 |
 | rocketry.space   | resell    | —         | —             | medium         | high   | 8      | Porkbun, LLC                                              |
 | hand.space       | premium   | $1,750    | $7,000        | high           | low    | 4      | namecheap                                                 |
-| texted.space     | available | $4.99     | —             | medium         | low    | 6      | name.com                                                  |
+| septet.space     | available | $0.98     | $32.48        | low            | low    | 6      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
