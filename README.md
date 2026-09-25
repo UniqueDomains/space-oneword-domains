@@ -1,10 +1,10 @@
-# Available .SPACE One-Word Domains (86,557)
+# Available .SPACE One-Word Domains (87,023)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-86%2C557%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-87%2C023%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .space one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **86,557 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **87,023 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 86,557 domains · **Median ask:** $239.94 · **High-demand under $2,500:** 258
+**Public extract:** 1,000 rows · **Live catalog:** 87,023 domains · **Median ask:** $252.86 · **High-demand under $2,500:** 249
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/space`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| default.space    | premium   | $3,450    | $3,450        | high           | low    | 7      | namesilo                                                  |
-| sums.space       | available | $3.99     | $34.99        | low            | low    | 4      | namesilo                                                  |
-| justintime.space | resell    | $4.99     | —             | medium         | low    | 12     | West263 International Limited                             |
-| awn.space        | premium   | $81.25    | $325          | medium         | low    | 3      | namecheap                                                 |
-| bifid.space      | available | $0.98     | $32.48        | medium         | low    | 5      | namecheap                                                 |
-| lunar.space      | resell    | —         | —             | high           | low    | 5      | West263 International Limited                             |
-| ixc.space        | premium   | $81.25    | $325          | low            | low    | 3      | namecheap                                                 |
-| clxxv.space      | available | $0.98     | $32.48        | low            | low    | 5      | namecheap                                                 |
-| access.space     | resell    | —         | —             | medium         | low    | 6      | DNSPod, Inc.                                              |
-| zag.space        | premium   | $812.50   | $3,250        | medium         | low    | 3      | namecheap                                                 |
-| coldly.space     | available | $3.99     | $34.99        | medium         | low    | 6      | namesilo                                                  |
-| wraith.space     | resell    | —         | —             | medium         | high   | 6      | Go Daddy, LLC                                             |
-| draw.space       | premium   | $3,500    | $14,000       | high           | low    | 4      | namecheap                                                 |
-| judaic.space     | available | $0.98     | $32.48        | low            | low    | 6      | namecheap                                                 |
-| meaning.space    | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| duty.space       | premium   | $350      | $1,400        | medium         | low    | 4      | namecheap                                                 |
-| mugup.space      | available | $0.98     | $32.48        | medium         | low    | 6      | namecheap                                                 |
-| rocketry.space   | resell    | —         | —             | medium         | high   | 8      | Porkbun, LLC                                              |
-| hand.space       | premium   | $1,750    | $7,000        | high           | low    | 4      | namecheap                                                 |
-| septet.space     | available | $0.98     | $32.48        | low            | low    | 6      | namecheap                                                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bifid.space     | available | $0.98     | $32.48        | high           | low    | 5      | namecheap                                                 |
+| twix.space      | resell    | —         | —             | high           | high   | 4      | OVH                                                       |
+| ada.space       | premium   | $875      | $3,500        | high           | medium | 3      | namecheap                                                 |
+| clxxv.space     | available | $0.98     | $32.48        | high           | low    | 5      | namecheap                                                 |
+| lunar.space     | resell    | —         | —             | high           | low    | 5      | West263 International Limited                             |
+| hit.space       | premium   | $875      | $3,500        | high           | low    | 3      | namecheap                                                 |
+| croat.space     | available | $0.98     | $32.48        | high           | low    | 5      | namecheap                                                 |
+| wraith.space    | resell    | —         | —             | high           | high   | 6      | Go Daddy, LLC                                             |
+| ixc.space       | premium   | $81.25    | $325          | high           | low    | 3      | namecheap                                                 |
+| plumy.space     | available | $0.98     | $32.48        | high           | low    | 5      | namecheap                                                 |
+| meaning.space   | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| opt.space       | premium   | $350      | $1,400        | high           | low    | 3      | namecheap                                                 |
+| coldly.space    | available | $3.99     | $34.99        | high           | low    | 6      | namesilo                                                  |
+| rocketry.space  | resell    | —         | —             | high           | high   | 8      | Porkbun, LLC                                              |
+| pan.space       | premium   | $875      | $3,500        | high           | low    | 3      | namecheap                                                 |
+| judaic.space    | available | $0.98     | $32.48        | high           | low    | 6      | namecheap                                                 |
+| totality.space  | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| zag.space       | premium   | $812.50   | $3,250        | high           | low    | 3      | namecheap                                                 |
+| monied.space    | available | $0.98     | $32.48        | high           | low    | 6      | namecheap                                                 |
+| aggregate.space | resell    | —         | —             | high           | low    | 9      | West263 International Limited                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 86,557 live domains                        |
+| 1,000-row public sample | 87,023 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 258 high-demand names under $2,500         |
+| Basic exported fields   | 249 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPACE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
